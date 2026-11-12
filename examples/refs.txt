@@ -1,0 +1,9 @@
+[1] 张三, 李四. 基于深度学习的图像识别方法研究[J]. 计算机学报, 2020, 43(5): 1-10.
+[2] 王五. 知识图谱在数字人文中的应用[D]. 北京: 北京大学, 2021.
+Smith, J., & Lee, K. (2022). Graph neural networks for citation analysis. Journal of Informetrics, 16(3), 101-120.
+https://kns.cnki.net/kcms2/article/abstract?v=abc123&uniplatform=NZKPT
+深度学习在医学影像中的应用	赵六	2019
+| 题名 | 作者 | 年份 |
+| --- | --- | --- |
+| 面向学术评价的引文网络分析 | 钱七 | 2023 |
+自然语言处理综述[J]. 中文信息学报, 2018, 32(2): 1-15.

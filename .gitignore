@@ -1,0 +1,19 @@
+# 本地配置与运行产物，不要提交
+config.json
+.cnki-batch-download/
+state/
+state.json
+items.json
+*.pdf
+*.caj
+*.kdh
+*.nh
+
+# Python
+__pycache__/
+*.pyc
+
+# 系统
+.DS_Store
+Thumbs.db
+desktop.ini

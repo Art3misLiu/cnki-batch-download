@@ -1,0 +1,3 @@
+- insert:
+    - id: cnki-batch-download
+      name: 'cnki-batch-download'

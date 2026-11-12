@@ -1,0 +1,49 @@
+{
+  "name": "cnki-batch-download",
+  "version": "1.1.0",
+  "description": "Bulk-download CNKI papers from a list: five login paths, seven list formats, PDF-first, resumable, with a success/failure report.",
+  "type": "module",
+  "main": "index.js",
+  "exports": {
+    ".": "./index.js",
+    "./package.json": "./package.json"
+  },
+  "files": [
+    "index.js",
+    "cordis.patch.yml",
+    "skills/",
+    "examples/",
+    "README.md",
+    "CHANGELOG.md",
+    "LICENSE"
+  ],
+  "dsh": {
+    "bundle": {
+      "patch": "./cordis.patch.yml"
+    }
+  },
+  "keywords": [
+    "dsh-plugin",
+    "deepseek-harness",
+    "skill",
+    "cnki",
+    "知网",
+    "文献下载",
+    "academic-tools",
+    "pdf-download",
+    "literature"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Art3misLiu/cnki-batch-download.git"
+  },
+  "homepage": "https://github.com/Art3misLiu/cnki-batch-download#readme",
+  "bugs": {
+    "url": "https://github.com/Art3misLiu/cnki-batch-download/issues"
+  },
+  "license": "MIT",
+  "author": "Art3misLiu",
+  "peerDependencies": {
+    "@deepseek-ai/dsh-skill-filesystem": ">=0.1.0-rc.6 <0.2.0-0 || >=0.2.0-rc.1 <0.3.0-0"
+  }
+}
